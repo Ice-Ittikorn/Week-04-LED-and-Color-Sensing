@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/e2fc46c3-60cb-47d1-a4c7-f715bc7404c4
 
 ---
 
-## Week-04-Lab-1
+## Week-04-Lab-2
 
 ### ✍️ กิจกรรมวิเคราะห์ผลและการบ้านท้ายใบงาน (Data Science & Engineering Reflection)
 
