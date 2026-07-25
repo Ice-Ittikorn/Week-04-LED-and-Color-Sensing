@@ -148,7 +148,13 @@ idf_component_register(SRCS "main.c"
 1. **การพล็อตพฤติกรรมทางกายภาพ (Transient Response Curve):**
     
     ให้นักศึกษาก๊อปปี้ข้อมูลตัวเลขชุดคู่อันดับ `No, ADC Raw` จาก Serial Monitor ทั้งหมดนำไปวางในโปรแกรม **Microsoft Excel** หรือ **Google Sheets** จากนั้นทำการพล็อตกราฟเส้น (Line Chart) โดยให้แกน X เป็นลำดับแซมเปิ้ล (1-20) และแกน Y เป็นค่าดิบของ ADC และแนบรูปกราฟลงในเล่มรายงาน
-    
+
+<img width="1414" height="643" alt="ภาพถ่ายหน้าจอ 2569-07-26 เวลา 01 48 17" src="https://github.com/user-attachments/assets/68a8ae91-ecb2-464b-b8f5-01f09c567ae5" />
+
+<img width="1378" height="617" alt="ภาพถ่ายหน้าจอ 2569-07-26 เวลา 01 50 45" src="https://github.com/user-attachments/assets/72e46745-c574-4048-a494-84309df267cd" />
+
+<img width="1391" height="629" alt="ภาพถ่ายหน้าจอ 2569-07-26 เวลา 01 51 15" src="https://github.com/user-attachments/assets/0bec52c8-8dc5-44a7-a56d-ee97f7e01e1e" />
+
 2. **คำถามนำเพื่อการวิเคราะห์เชิงระบบ (Critical Thinking):**
     
     - จากกราฟที่พล๊อตออกมา นักศึกษาสังเกตเห็นแนวโน้มตัวเลขของค่า ADC ตั้งแต่แซมเปิ้ลที่ 1 ไต่ระดับลงมาหรือขึ้นไปจนถึงแซมเปิ้ลที่ 20 อย่างไร? 
